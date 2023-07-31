@@ -1,4 +1,4 @@
-Dice Game with JWT + SQL
+                                                       Dice Game with JWT + SQL
 
 Este es tu proyecto final, una API 100% diseñada para ti donde aplicarás todo lo que sabes hasta ahora para crear una aplicación completa, desde la base de datos hasta la seguridad. Aplica todo lo que sabes hasta lo que no se pide.
 
